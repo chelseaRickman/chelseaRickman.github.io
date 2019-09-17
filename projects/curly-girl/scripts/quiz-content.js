@@ -1,5 +1,15 @@
 window.quizContent = [
     {
+        question: "Welcome to the Curly Girl game! Let's style your hair!",
+        choices: [
+            {
+                choice: "Get stylin'",
+                isCorrect: true,
+                incorrectMessage: "",
+            }
+        ],
+    },
+    {
         question: "It's wash day!<br />How are you washing your hair today?",
         choices: [
             {
@@ -90,5 +100,11 @@ window.quizContent = [
                 incorrectMessage: "",
             },
         ]
-    }
+    },
+
+    {
+        question: "Woo! You did it! But your hair looks like crap.\r\nYou can't control "
+        + "curly hair. It controls you! HAHA<br />But in all seriousness, you are all beautiful! Rock those amazing curls! :)",
+        choices: [],
+    },
 ]

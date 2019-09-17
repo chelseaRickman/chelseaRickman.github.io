@@ -1,0 +1,33 @@
+body {
+}
+h1 {
+    color: green;
+}
+
+button {
+    background: purple;
+    color: yellow;
+    padding: 5px 10px 5px 10px;
+    border-radius: 10px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, .5);
+    margin: 10px 0;
+    transition: .5s ease;
+}
+
+button:hover {
+    background: green;
+}
+
+@keyframes ErrorMessageIn {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+#errorMessage {
+    display: none;
+    animation-name: ErrorMessageIn;
+    animation-duration: .5s;
+}
