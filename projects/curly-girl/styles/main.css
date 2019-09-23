@@ -1,12 +1,12 @@
 body {
 }
 h1 {
-    color: green;
+    color: black;
 }
 
 button {
-    background: purple;
-    color: yellow;
+    background: white;
+    color: black;
     padding: 5px 10px 5px 10px;
     border-radius: 10px;
     box-shadow: 0 0 5px rgba(0, 0, 0, .5);
@@ -15,7 +15,7 @@ button {
 }
 
 button:hover {
-    background: green;
+    background: pink;
 }
 
 @keyframes ErrorMessageIn {
