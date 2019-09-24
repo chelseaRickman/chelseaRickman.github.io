@@ -1,6 +1,6 @@
 window.quizContent = [
     {
-        question: "Welcome to the Curly Girl game! Let's style your hair!",
+        question: "Welcome to the Curly Girl Game! Let's style your hair!",
         choices: [
             {
                 choice: "Get stylin'",
