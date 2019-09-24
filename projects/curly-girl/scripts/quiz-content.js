@@ -20,7 +20,7 @@ window.quizContent = [
             {
                 choice: "Lo-poo",
                 isCorrect: false,
-                incorrectMessage: "Oops! The lo-poo was too drying",
+                incorrectMessage: "Oops! The lo-poo was too drying. Try again!",
             },
         ],
     },
