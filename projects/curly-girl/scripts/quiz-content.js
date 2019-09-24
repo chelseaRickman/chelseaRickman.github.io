@@ -82,7 +82,7 @@ window.quizContent = [
                 choice: "Air drying",
                 isCorrect: false,
                 incorrectMessage: "Ain't nobody got time for that!<br />\
-                That will LITERALLY take 4 days, 17 hours, and 36 minutes",
+                That will LITERALLY take 4 days, 17 hours, and 36 minutes.",
             },
         ]
     },
@@ -103,7 +103,7 @@ window.quizContent = [
     },
 
     {
-        question: "Woo! You did it! But your hair looks like crap.\r\nYou can't control "
+        question: "Woo! You did it! But your hair still looks like crap.\r\nYou can't control "
         + "curly hair. It controls you! HAHA<br />But in all seriousness, you are all beautiful! Rock those amazing curls! :)",
         choices: [],
     },
